@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.card-body, .card-price, .col, .mb-5,.fa-ul,.list{
+  width:800px;
+  justify-content: center;
+}
+
+.content{
+  justify-content: center;
+}
